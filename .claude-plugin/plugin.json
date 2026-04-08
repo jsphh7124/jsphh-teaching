@@ -1,0 +1,11 @@
+{
+  "name": "jsphh-teaching",
+  "version": "1.0.0",
+  "description": "Teaching design skills for Claude Code — manual builder, PPT creation, and sketch-note slides.",
+  "author": "jsphh7124",
+  "skills": [
+    "teaching-manual-builder",
+    "sketch-note-ppt",
+    "ppt-creator"
+  ]
+}
