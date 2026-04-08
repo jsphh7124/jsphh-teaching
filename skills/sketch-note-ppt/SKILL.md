@@ -1,5 +1,5 @@
 ---
-name: agentic-ppt
+name: sketch-note-ppt
 description: Generate styled HTML presentations from a topic or viewpoint. Supports multiple visual styles (sketch-notes, minimal, dark-pro, data-viz). Produces a self-contained single-file HTML deck with arrow-key navigation and zero dependencies. Use when (1) user wants to make a PPT, (2) user mentions "sketch notes", "簡報", "做 PPT", "agentic PPT", or "生成投影片".
 ---
 
